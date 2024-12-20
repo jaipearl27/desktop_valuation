@@ -6,7 +6,7 @@ const blogData = [
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The Indian real estate market is changing
         rapidly, and technology is playing a crucial role in this change. Among all the
-        developments,<span style="color: rgb(106, 168, 79);"> Automated Valuation Models in India</span>
+        developments,<span style=""> Automated Valuation Models in India</span>
         have emerged as significant in property valuation processes. Statistical models
         based on machine learning and real-time data analysis are transforming the way
         property values are assessed in the real estate sector.</span></p>
@@ -18,7 +18,7 @@ const blogData = [
 <h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">What Are Automated Valuation
         Models (AVMs)?</span></h2>
 
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN" style="color: rgb(106, 168, 79);">Automated Valuation Models
+<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN" style="">Automated Valuation Models
         (AVMs) in India</span><span lang="EN"> are algorithm-based systems that estimate
         the value of a property without requiring a physical inspection. By leveraging
         statistical methods, hedonic models, and machine learning algorithms, AVMs
@@ -52,7 +52,7 @@ const blogData = [
         processes large datasets, gives insight into market trends and predicts future
         sales prices in real-time.</span></p>
 
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Applications of <span style="color: rgb(106, 168, 79);">Automated Valuation Models in India</span></span></h2>
+<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Applications of <span style="">Automated Valuation Models in India</span></span></h2>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">1.
             Facilitating Real Estate Transactions</span></strong></p>
@@ -151,7 +151,7 @@ const blogData = [
         working on these issues by constantly improving the algorithms and expanding
         their databases to cater to diverse markets.</span></p>
 
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Future of <span style="color: rgb(106, 168, 79);">Automated Valuation Models in India</span></span></h2>
+<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Future of <span style="">Automated Valuation Models in India</span></span></h2>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The adoption of AVMs in India will surely grow
         as the real estate sector welcomes digital transformation. The sophistication
@@ -163,7 +163,7 @@ const blogData = [
         and ensuring the best possible insights for the respective clients regarding
         property valuations.</span></p>
 
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN" style="color: rgb(106, 168, 79);">Automated Valuation Models
+<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN" style="">Automated Valuation Models
         are a giant leap for India's</span><span lang="EN"> real estate sector. By
         applying machine learning, statistical models, and real-time data, AVMs are
         faster, more accurate, and more transparent than traditional valuation methods.</span></p>
@@ -189,7 +189,7 @@ const blogData = [
         properties, recent sales prices, and prevailing market trends. It all helps in
         giving a fast but accurate estimate of the property's market value.</span></p>
 
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">2. Are<span style="color: rgb(106, 168, 79);"> Automated Valuation Models reliable in India</span>?</span></strong></p>
+<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">2. Are<span style=""> Automated Valuation Models reliable in India</span>?</span></strong></p>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Yes, AVMs are reliable in areas where data is
         available on property characteristics and market conditions. Companies like
@@ -220,12 +220,12 @@ const blogData = [
         valuation by using Automated Valuation Models (AVMs) to deliver fast, accurate,
         and reliable results, eliminating physical inspections.</span></p>
 
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Let’s explore how<span style="color: rgb(106, 168, 79);">
+<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Let’s explore how<span style="">
             quick property valuation online</span> works, its advantages, and why tools
         like Desktop Valuation are becoming indispensable in today’s real estate
         market.</span></p>
 
-<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">What is <span style="color: rgb(106, 168, 79);">Quick
+<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">What is <span style="">Quick
             Property Valuation Online</span>?</span></h2>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Property valuation online is a digital method of
@@ -250,7 +250,7 @@ const blogData = [
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in 0px 0.5in; text-indent: -0.25in;"><span lang="EN"><span>1.<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;
             </span></span></span><strong><span lang="EN">Informed Decisions<br>
-        </span></strong><span lang="EN">Whether you’re buying or selling, <span style="color: rgb(106, 168, 79);">quick property valuation online</span> helps you make
+        </span></strong><span lang="EN">Whether you’re buying or selling, <span style="">quick property valuation online</span> helps you make
         data-driven decisions. Sellers can set competitive prices, while buyers avoid
         overpaying.</span></p>
 
@@ -269,7 +269,7 @@ const blogData = [
         </span></strong><span lang="EN">Proper valuations ensure suitable insurance coverage
         and safeguard financial investments.</span></p>
 
-<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">How <span style="color: rgb(106, 168, 79);">Quick
+<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">How <span style="">Quick
             Property Valuation Online</span> Works</span></h2>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Tools like Desktop Valuation utilize a
@@ -278,7 +278,7 @@ const blogData = [
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Here’s a breakdown of the process:</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">Step 1: Data Collection</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">Step 1: Data Collection</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The algorithm gathers data, including:</span></p>
 
@@ -293,14 +293,14 @@ const blogData = [
             </span></span></span><span lang="EN">Market trends and infrastructure
         development</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">Step 2: Comparative
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">Step 2: Comparative
             Analysis</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Using hedonic models, the system evaluates the
         subject property by comparing it to surrounding properties with similar
         features.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">Step 3: Real-Time
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">Step 3: Real-Time
             Calculation</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The algorithm processes the collected data to
@@ -316,37 +316,37 @@ const blogData = [
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The accuracy of property valuation online
         depends on several factors, including:</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">1. Location</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">1. Location</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Properties in prime areas or those close to
         amenities often have higher valuations. For example, valuations in cities like
         Hyderabad may highlight demand-driven trends, emphasizing the importance of
         using localized tools.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">2. Size and Layout</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">2. Size and Layout</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Larger properties with functional layouts
         typically attract higher valuations.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">3. Market Trends</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">3. Market Trends</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Real estate markets are dynamic, with prices
         influenced by demand and supply. Desktop Valuation incorporates these trends for
         precise estimations.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">4. Comparable Sales</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">4. Comparable Sales</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Recent sales data from nearby properties play a
         critical role in determining market value.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">5. Upgrades and
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">5. Upgrades and
             Renovations</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Modern features, like energy-efficient
         appliances or aesthetic enhancements, can significantly increase property
         value.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">6. Infrastructure and
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">6. Infrastructure and
             Development</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Upcoming projects such as shopping centres or
@@ -373,28 +373,28 @@ const blogData = [
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Estimates the replacement cost of a property,
         deducting depreciation while factoring in land value.</span></p>
 
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><strong><span lang="EN" style="font-size: 23px; line-height: 115%;">Benefits of <span style="color: rgb(106, 168, 79);">Quick
+<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><strong><span lang="EN" style="font-size: 23px; line-height: 115%;">Benefits of <span style="">Quick
                 Property Valuation Online</span></span></strong></p>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Using Desktop Valuation’s service offers several
         advantages:</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">1. Convenience and Speed</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">1. Convenience and Speed</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Get accurate results instantly without waiting
         for an appraiser.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">2. Cost-Effective</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">2. Cost-Effective</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Eliminates the expense of physical inspections
         and appraisals.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">3. Data-Driven Insights</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">3. Data-Driven Insights</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Provides clear insights into market trends,
         empowering users with actionable data.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">4. Wide Application</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">4. Wide Application</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Valuations cater to residential, commercial, and
         industrial properties.</span></p>
@@ -451,7 +451,7 @@ const blogData = [
 
 <h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Conclusion</span></h2>
 
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN" style="color: rgb(106, 168, 79);">Quick property valuation
+<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN" style="">Quick property valuation
         online</span><span lang="EN"> is transforming the way property values are
         assessed, offering speed, accuracy, and convenience. Tools like <strong>Desktop Valuation</strong> are indispensable for
         homeowners, buyers, and investors alike, bridging the gap between technology
@@ -463,32 +463,32 @@ const blogData = [
 
 <h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><strong><span lang="EN">FAQs</span></strong></h2>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">1. What is </span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: rgb(106, 168, 79);">quick property valuation online</span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">?</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">1. What is </span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; ">quick property valuation online</span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">?</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Quick property valuation online estimates
         property value using algorithms, comparable sales data, and market trends
         without requiring physical inspections.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">2. How accurate is </span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: rgb(106, 168, 79);">quick property valuation online</span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">?</span></strong></h3>
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">2. How accurate is </span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; ">quick property valuation online</span></strong><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">?</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN"><br>
         While online tools like Desktop Valuation offer precise estimates, combining
         them with professional appraisals ensures the most accurate results.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">3. What data does Desktop
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">3. What data does Desktop
             Valuation use?</span></strong></h3>
 
 <p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">It uses primary and secondary data, including
         recent sales, property size, condition, and market trends.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">4. Is property valuation
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">4. Is property valuation
             online free?</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN"><br>
         Yes, many platforms, including Desktop Valuation, provide free initial
         estimates.</span></p>
 
-<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; color: rgb(67, 67, 67); font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">5. Can property valuation
+<h3 style="margin: 19px 0in 5px; line-height: 115%; font-size: 19px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; break-after: auto;"><strong><span lang="EN" style="font-size: 17px; line-height: 115%; color: black;">5. Can property valuation
             online be used for commercial properties?</span></strong></h3>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">&nbsp;</span><br></p>
@@ -504,15 +504,15 @@ const blogData = [
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">In the ever-changing real estate market, knowing
         the value of real estate properties is essential for homeowners, investors, and
         buyers. Whether selling, buying, or investing, knowing your property's worth
-        will help you make the right decisions. A <span style="color: rgb(106, 168, 79);">Real Estate
+        will help you make the right decisions. A <span style="">Real Estate
             Valuation Calculator</span> is a powerful tool that streamlines the process of
         property valuation, providing accurate estimates without extensive time or
         resources.</span></p>
 
-<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">What Is a<span style="color: rgb(106, 168, 79);">
+<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">What Is a<span style="">
             Real Estate Valuation Calculator</span>?</span></h2>
 
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A<span style="color: rgb(147, 196, 125);"> real estate
+<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A<span style=""> real estate
             valuation calculator</span> is an advanced property data analysis tool that
         approximates the market value by considering the property's location, size,
         age, condition, and market trends. To generate this much-needed result, a
@@ -590,12 +590,12 @@ const blogData = [
         as well as eliminating the requirement for manual input, with quick and
         accurate results available for different categories of property.</span></p>
 
-<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Advantages of Using a <span style="color: rgb(106, 168, 79);">Real Estate Valuation Calculator</span></span></h2>
+<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Advantages of Using a <span style="">Real Estate Valuation Calculator</span></span></h2>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><strong><span lang="EN">1. Fast
             and Precise Estimates</span></strong></p>
 
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A<span style="color: rgb(106, 168, 79);"> Real Estate
+<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A<span style=""> Real Estate
             Valuation Calculator</span> can give you instant insights, saving you more time
         compared to traditional appraisal methods. With companies like Desktop
         Valuation, you can always rely on the accuracy of the automated estimation.</span></p>
@@ -625,7 +625,7 @@ const blogData = [
         Appraisal</span></h2>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A variety of factors contribute to a property's
-        market value. A reliable<span style="color: rgb(106, 168, 79);"> Real Estate Valuation
+        market value. A reliable<span style=""> Real Estate Valuation
             Calculator</span> considers these elements:<br>
         <br>
     </span></p>
@@ -676,10 +676,10 @@ const blogData = [
         its algorithm, providing thorough assessments of residential, commercial, as
         well as industrial properties.</span></p>
 
-<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Using a <span style="color: rgb(106, 168, 79);">Real
+<h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Using a <span style="">Real
             Estate Valuation Calculator</span></span></h2>
 
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Using a <span style="color: rgb(106, 168, 79);">Real Estate
+<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Using a <span style="">Real Estate
             Valuation Calculator</span> is relatively simple:<br>
         <br>
     </span></p>
@@ -723,9 +723,9 @@ const blogData = [
 <h2 style="margin: 0.25in 0in 8px; line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Frequently Asked Questions</span></h2>
 
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><strong><span lang="EN">1. What is
-            a<span style="color: rgb(106, 168, 79);"> Real Estate Valuation Calculator</span>?</span></strong></p>
+            a<span style=""> Real Estate Valuation Calculator</span>?</span></strong></p>
 
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A<span style="color: rgb(106, 168, 79);"> Real Estate
+<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">A<span style=""> Real Estate
             Valuation Calculator</span> is a computer-based tool that uses real estate and
         market data to estimate the market value of real estate properties. It is best
         suited for any buyer, seller, or investor who would like to get quick and
@@ -767,265 +767,6 @@ const blogData = [
 <p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">Understanding the value of a property helps
         investors determine possible returns, plan financing, and make better decisions
         about investing in properties.</span></p>`,
-  },
-  {
-    slugName: "real-estate-valuation-india",
-    content: `<h1 style="margin: 27px 0in 8px; line-height: 115%; break-after: avoid; font-size: 27px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal;"><span lang="EN">Property Assessment Techniques for <span style="color: rgb(106, 168, 79);">Real
-            Estate Valuation in India</span></span></h1>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Property valuation has undergone significant
-        changes with the advent of technology. One such revolutionary approach is
-        desktop valuation. It makes use of sophisticated machine learning algorithms
-        and Automated Valuation Models (AVMs) to produce accurate property valuations
-        without requiring physical inspections. Desktop valuation is best suited for
-        residential, commercial, and industrial properties of various categories and
-        delivers efficiency, accuracy, and convenience.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN"><a href="https://desktopvaluation.in/"><span style="color: rgb(17, 85, 204); text-decoration: none;">Desktop
-                valuation</span></a> works on the basis of data gathered from comparable sales
-        in the neighbourhood area, real estate market trends, and information provided
-        by the clients. This data-based approach ensures that valuations are reliable
-        and specific to the nature of a property. It incorporates both primary and
-        secondary data sources to increase accuracy and makes it a preferred method for<span style="color: rgb(106, 168, 79);"> real estate valuation in India.</span></span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Why Desktop Valuation is the
-        Game Changer for <span style="color: rgb(106, 168, 79);">Real Estate Valuation in India</span></span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">India's real estate market has become
-        ever-competitive and fast-paced, meaning that proper valuation is always in
-        demand. As a matter of fact, desktop valuation makes it possible to overcome
-        such barriers by providing efficient, precise methods against traditional
-        processes. Now let's dive into the top reasons why it is the best method out
-        there:</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">1.
-            Accuracy without the need to conduct an on-site inspection</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">This form of desktop valuation omits the need
-        for visiting sites by relying on advanced data analytics. Assessing sale
-        prices, the market value of a property, and comparable sales in the area,
-        provides highly accurate valuations. Thus, it is one of the most trusted
-        methods both by buyers and sellers and by financial institutions.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">2.
-            Time-Saving Efficiency</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">One of the greatest strengths of desktop
-        valuation is that it delivers results very fast. Traditional methods include
-        scheduling on-site inspections and compiling manual reports, which take weeks.
-        Desktop valuation simplifies this process by delivering detailed reports in
-        hours or days.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">3.
-            Cost-Effectiveness</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Physical appraisals involve travelling costs,
-        inspection charges, and significant manual labour, all of these add to more
-        costs. Desktop valuation gets rid of all these overheads and thus, desktop
-        valuation proves to be a cheap option for people and organizations searching
-        for <span style="color: rgb(106, 168, 79);">real estate valuation in India.</span> <br>
-        <br>
-        <strong>4. Data-Driven Insights</strong></span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Comprehensive insight comes with leveraging
-        large data that contain property taxes, transactions involved in real estate,
-        and current market trends. Such a data-driven approach will mean that
-        valuations are both accurate and reflective of current market conditions.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">5.
-            Cross-applicability across different property types</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop valuation is not exclusive to certain
-        types of properties. Whether it's a residential home, a commercial office
-        space, or an industrial facility, this method comes with reliable valuation
-        reports specifically for each type of property.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Major Uses of Desktop Valuation</span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop valuation has major uses, making it an
-        indispensable tool for many stakeholders in the real estate industry.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">1.
-            Mortgage and Loan Approvals</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">For mortgage companies, estimating the valuation
-        of a property is a critical step in loan approval. It ensures that the value of
-        the property aligns with the loan amount and ensures that the risk of default
-        is reduced. It provides confidence to lenders to approve loans through accurate
-        data-driven property assessments.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">2. Tax
-            Assessment and Compliance</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Property taxes are a major source of revenue for
-        local governments, and accurate valuations are essential to ensure that tax
-        assessments are fair. Desktop valuation simplifies the process by providing
-        precise estimates, thereby ensuring that property owners are taxed
-        appropriately.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">3.
-            Facilitating Real Estate Transactions</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">In any real estate transaction, whether buying
-        or selling, the value of the property has to be known. For buyers, this ensures
-        that they are paying a reasonable price, while for sellers, it helps them set
-        competitive listing prices. Desktop valuation is unbiased and transparent,
-        simplifying negotiations and building trust between parties.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">4.
-            Investment Decision-Making</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Real estate investors rely heavily on accurate
-        valuation reports to assess the profitability of potential investments. Desktop
-        valuation provides a detailed insight into market conditions, potential rental
-        income, and comparable sales, enabling investors to make informed decisions.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Benefits of Desktop Valuation
-        over Traditional Methods</span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop valuation has several advantages, making
-        it the best method for<span style="color: rgb(106, 168, 79);"> real estate valuation in
-            India.</span></span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">1.
-            Reliability and Consistency</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop valuation uses complex algorithms that
-        compute multiple data points to achieve consistent and unbiased reports on
-        valuation. Unlike traditional methods, it reduces the risk of human error or
-        subjective judgment.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">2.
-            Transparency in Reporting</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Valuation reports produced by the desktop method
-        are clear and understandable. They explain how the factors that affect
-        valuation, such as the market value of a property, comparable sales, and market
-        conditions.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">3.
-            Scalability for Large Portfolios</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">For real estate companies managing large
-        portfolios of properties, desktop valuation is scalable. This means that it can
-        process numerous valuations simultaneously, saving time and resources while
-        maintaining accuracy.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">4.
-            Real-Time Flexibility</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop valuation makes use of current market
-        information, allowing it to easily adapt to changing trends and conditions.
-        This ensures that valuations are relevant and accurate, even in very volatile
-        markets.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">How Desktop Valuation Works</span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The desktop valuation process is a combination
-        of advanced technology, the analysis of comprehensive data, and expert
-        algorithms. Here's a step-by-step breakdown:</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Data
-            Collection:</span></strong><span lang="EN"> This process starts with gathering all
-        relevant information, such as property details, location, and recent sale
-        prices of similar properties.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Algorithmic
-            Analysis:</span></strong><span lang="EN"> Machine learning algorithms examine the
-        collected data, taking into account factors like market value, property taxes,
-        and conditions in the market.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Calculation
-            of Valuation:</span></strong><span lang="EN"> The algorithm comes up with an estimated
-        value for the property based on its analysis of the data.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Report
-            Generation:</span></strong><span lang="EN"> A detailed valuation report is prepared,
-        which comes up with the findings and gives insights into the factors
-        influencing the value of the property.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Why Desktop Valuation is the
-        Need of the Indian Real Estate Market</span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">The real estate market in India is massive and
-        diverse, ranging from urban apartments to rural lands, commercial hubs, and
-        industrial zones. Traditional methods of property valuation are often slow,
-        labour-intensive, and costly. This is where desktop valuation comes in handy.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Meeting
-            the Needs of a Dynamic Market</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">With rapid urbanization and real estate
-        transactions, the demand for efficient methods of property valuation is on the
-        rise. The desktop valuation method responds to this by providing a fast,
-        reliable assessment that meets the demands of owners, buyers, and investors.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Promotion
-            of Clear Real Estate Transactions</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Transparency is the biggest cause for concern in
-        the Indian real estate market. Desktop valuation leads to trust since it
-        ensures neutral, fact-based valuations that most financial establishments,
-        mortgage companies, and even insurance providers accept.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Enabling
-            Better Decision-Making</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Whether it is about determining the market value
-        of a property or setting its selling price, desktop valuation assists in
-        arriving at appropriate conclusions.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Why Desktop Valuation?</span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop Valuation is a name that can be trusted
-        in the<span style="color: rgb(106, 168, 79);"> Indian real estate valuation </span>space.
-        The company focuses on accuracy, transparency, and efficiency while offering
-        cutting-edge desktop valuation services customised to meet the unique needs of
-        its clients.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><strong><span lang="EN">Key
-            Features of Desktop Valuation Services:</span></strong></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in 0px 0.5in; text-indent: -0.25in;"><span lang="EN"><span>●<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span></span><span lang="EN">Advanced algorithms for precise
-        property assessments.</span></p>
-
-<p class="normal" style="margin: 0in 0in 0px 0.5in; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; text-indent: -0.25in;"><span lang="EN"><span>●<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span></span><span lang="EN">Expertise in evaluating
-        residential, commercial, and industrial properties.</span></p>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 0in 0in 16px 0.5in; text-indent: -0.25in;"><span lang="EN"><span>●<span style="font: 9px &quot;Times New Roman&quot;;">&nbsp;&nbsp;&nbsp;&nbsp;
-            </span></span></span><span lang="EN">Comprehensive valuation reports
-        are compliant with industry standards.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">Commitment to Excellence</span></h2>
-
-<p class="normal" style="line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;; margin: 16px 0in;"><span lang="EN">Desktop Valuation brings together the power of
-        technology and human expertise to provide accurate, actionable insights. Our
-        services have the trust of property owners, real estate agents, mortgage
-        companies, and investors from all over India.</span></p>
-
-<h2 style="line-height: 115%; break-after: avoid; font-size: 21px; font-family: Arial, &quot;sans-serif&quot;; font-weight: normal; margin: 16px 0in;"><span lang="EN">FAQs</span></h2>
-
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">1. How accurate is the desktop valuation for
-        property assessment?<br>
-        <br>
-        Desktop valuation is highly accurate when reliable data is available. It
-        analyzes sale prices, market conditions, and similar properties to provide
-        precise valuation reports. However, its accuracy may depend on the quality of
-        data inputs and is best suited for residential, commercial, and industrial
-        properties with sufficient comparable data.<br>
-        <br>
-    </span></p>
-
-<p class="normal" style="margin: 0in 0in 0px; line-height: 115%; font-size: 15px; font-family: Arial, &quot;sans-serif&quot;;"><span lang="EN">2. Why is desktop valuation important for real
-        estate in India?<br>
-        <br>
-        Desktop valuation is essential for real estate in India as it offers a quick,
-        cost-effective, and transparent way to determine property values. It is
-        particularly useful for buyers, sellers, mortgage companies, and investors,
-        ensuring informed decision-making and facilitating seamless real estate
-        transactions.</span></p>`,
   },
 ];
 import parse from "html-react-parser";
