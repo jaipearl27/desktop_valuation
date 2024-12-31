@@ -1,3 +1,6 @@
+import parse from "html-react-parser";
+import Head from 'next/head';
+
 // app/blog/[slug]/page.js
 const blogData = [
   {
@@ -768,11 +771,171 @@ const blogData = [
         investors determine possible returns, plan financing, and make better decisions
         about investing in properties.</span></p>`,
   },
+  {
+    slugName: "real-estate-market-value",
+    content: `<h1 style="color: black; font-size: 24px; margin-bottom: 20px;">
+    How Desktop Valuation Helps You Understand Real Estate Market Value
+  </h1>
+  <p>
+    Knowing the real estate market value is essential whether you’re buying, selling, or investing in property. It helps make well-informed decisions, ensures fair transactions, and opens avenues for strategic investments. In this guide, we’ll explore the concept, methods of calculation, and its importance in the Indian real estate sector while also looking at the benefits of desktop valuation, an innovative service for accurate property assessments.
+  </p>
+
+  <h2 style="color: black; font-size: 20px; margin-top: 20px;">
+    What is Real Estate Market Value?
+  </h2>
+  <p>
+    The real estate market value is the estimated amount at which a property would sell during normal conditions in a fair market. This value relates to factors such as location, size, condition, and generally the demand in the real estate sector. For both residential property and commercial real estate, this value ensures transparency and fairness in executing real estate transactions.
+  </p>
+
+  <h2 style="color: black; font-size: 20px; margin-top: 20px;">
+    How to Calculate the Market Value of Real Estate?
+  </h2>
+  <p>
+    Determining the real estate value requires more than one calculation and technique. Here is a list of detailed steps:
+  </p>
+
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    1. Professional Appraisal for Property
+  </h3>
+  <p>
+    The first step when evaluating property is to hire an appraiser. These professional appraisers consider relevant factors such as location, size, and condition. They give a fair market price. For those needing a faster approach, one can consider desktop valuation—a contemporary alternative that precisely calculates the value without ever having to inspect the premise.
+  </p>
+
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    2. Comparative Market Analysis (CMA)
+  </h3>
+  <p>
+    CMA compares a property with recently sold properties in the same area. Size, amenities, and condition are considered. It's particularly effective in residential and commercial real estate markets in which trends fluctuate due to local demand.
+  </p>
+
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    3. Valuation Approaches
+  </h3>
+  <h4 style="color: black; font-size: 16px; margin-top: 10px;">
+    Cost Approach
+  </h4>
+  <p>
+    This approach estimates the reconstruction cost of a property, considering depreciation. This is used for the evaluation of newly developed properties, ensuring the value corresponds to the present market size.
+  </p>
+
+  <h4 style="color: black; font-size: 16px; margin-top: 10px;">
+    Income Approach
+  </h4>
+  <p>
+    For income-producing properties, this approach calculates the income generated. With an increase in urban renters and demand for houses, this approach is critical for investments in real estate.
+  </p>
+
+  <h4 style="color: black; font-size: 16px; margin-top: 10px;">
+    Desktop Valuation
+  </h4>
+  <p>
+    Desktop valuation is a game-changing tool that uses machine learning algorithms to assess property value. By analyzing comparable sales data and client-provided information, it offers a reliable valuation of residential, commercial, and industrial properties without physical inspections.
+  </p>
+
+  <h2 style="color: black; font-size: 20px; margin-top: 20px;">
+    Importance of Knowing the Market Value of Real Estate
+  </h2>
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    1. Fair Transactions
+  </h3>
+  <p>
+    Understanding market value ensures fair dealings either when buying or selling. For residential property buyers, it provides assurance of paying the right price, while sellers can maximize returns.
+  </p>
+
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    2. Investment Opportunities
+  </h3>
+  <p>
+    Market value analysis is the basis of real estate investments. Knowing the value helps assess the potential return on investment, especially in the dynamic Indian real estate sector. Desktop valuation simplifies this process, providing accurate insights into both residential and commercial properties.
+  </p>
+
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    3. Market Insights
+  </h3>
+  <p>
+    Market value represents general trends of the estate market, for instance, interest rates, housing demand, and economic growth. These trends enable buyers and investors to make informed decisions.
+  </p>
+
+  <h3 style="color: black; font-size: 18px; margin-top: 15px;">
+    4. Foreign Investment
+  </h3>
+  <p>
+    Foreign investors are drawn to India's real estate market because of its huge potential size and continuous development. Investor confidence is bolstered by proper valuation techniques such as desktop valuation.
+  </p>
+
+  <h2 style="color: black; font-size: 20px; margin-top: 20px;">
+    Factors Affecting Value in Real Estate Market
+  </h2>
+  <ul style="margin-left: 20px;">
+    <li><strong>Location:</strong> Better locations with good connectivity and facilities attract higher value.</li>
+    <li><strong>Size and Condition:</strong> Larger properties or properties in excellent condition attract a better price.</li>
+    <li><strong>Government Policies:</strong> The government of India's rules, like tax benefits or housing schemes, determine the property value.</li>
+    <li><strong>Market Trends:</strong> Economic growth, interest rates, and number of renters influence demand for property and price.</li>
+    <li><strong>Development Potential:</strong> Places with future infrastructure or commercial developments have higher appreciation in properties.</li>
+  </ul>
+
+  <h2 style="color: black; font-size: 20px; margin-top: 20px;">
+    FAQs
+  </h2>
+  <p><strong>1. What is real estate market value?</strong></p>
+  <p>Real estate market value is the estimated price a property would sell for under current market conditions, considering factors like location, size, and market trends.</p>
+
+  <p><strong>2. How is the market value of real estate calculated?</strong></p>
+  <p>It is calculated using methods like professional appraisals, comparative market analysis, cost approach, income approach, and innovative tools like desktop valuation.</p>
+
+  <p><strong>3. Why is real estate market value important?</strong></p>
+  <p>It ensures fair transactions, helps evaluate investment potential, and provides insights into market trends, making it essential for buyers, sellers, and investors.</p>
+
+  <p><strong>4. What role does desktop valuation play in property assessment?</strong></p>
+  <p>Desktop valuation is based on using machine learning algorithms that provide precise and efficient valuations of the properties without having physical inspections.</p>
+
+  <p><strong>5. How do property values affect the Indian real estate sector?</strong></p>
+  <p>The various factors which affect the value of properties in the Indian real estate market include factors like economic growth, the demand for housing, the policies followed by the government, and foreign investment into the economy.</p>
+`,
+  },
 ];
-import parse from "html-react-parser";
+
+// Meta tag data for each blog
+const metaTags = {
+  "real-estate-valuation-calculator": {
+    title: "Real Estate Valuation Calculator | Know Your Property’s Worth",
+    description:
+      "Streamline property assessments with a Real Estate Valuation Calculator. Calculate value instantly using advanced algorithms and market trends.",
+    canonical:
+      "https://desktopvaluation.in/blog/real-estate-valuation-calculator",
+  },
+  "automated-valuation-model-india": {
+    title: "Automated Valuation Model India | Accurate Property Valuations",
+    description:
+      "Discover how Automated Valuation Models streamline property valuations in India. Learn their benefits, applications, and role in real estate decision-making.",
+    canonical:
+      "https://desktopvaluation.in/blog/automated-valuation-model-india",
+  },
+  "quick-property-valuation-online": {
+    title: "Quick Property Valuation Online | Real-Time Results",
+    description:
+      "Evaluate property value in minutes with Desktop Valuation. AI-based models deliver fast, reliable results for real estate decisions and market analysis.",
+    canonical:
+      "https://desktopvaluation.in/blog/quick-property-valuation-online",
+  },
+  "real-estate-valuation-india": {
+    title: "Real Estate Valuation India | Accurate Market-Based Valuations",
+    description:
+      "Explore real estate valuation in India with market-aligned estimates. Fast, professional, and ideal for informed property investment and financial decisions.",
+    canonical:
+      "https://desktopvaluation.in/services/real-estate-valuation-india",
+  },
+};
 
 export default async function BlogPostPage({ params }) {
-  console.log(params, "params");
+  const metaData = metaTags[params?.slugName] || {
+    title: "Default Blog Title",
+    description: "Default description for the blog.",
+    canonical: "https://desktopvaluation.in/blog",
+  };
+
+  console.log("Title being set:", metaData.title);
+
   const post = blogData.find((p) => p.slugName === params.slugName);
 
   if (!post) {
@@ -784,9 +947,24 @@ export default async function BlogPostPage({ params }) {
   }
 
   return (
-    <div className="container mx-auto mt-[10rem] min-h-screen text-black">
-      <p>{parse(post.content || "")}</p>
-    </div>
+    <>
+      <Head>
+        <title>{metaData.title}</title>
+        <meta name="description" content={metaData.description} />
+        <meta name="author" content="Desktop Valuation" />
+        <meta name="publisher" content="Desktop Valuation" />
+        <meta
+          name="robots"
+          content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
+        />
+        <link rel="canonical" href={metaData.canonical} />
+      </Head>
+  
+        <div className="container mx-auto mt-[10rem] min-h-screen text-black">
+          <p>{parse(post.content || "")}</p>
+        </div>
+  
+    </>
   );
 }
 
