@@ -55,7 +55,7 @@ const Dropdown = ({ data, setShowMobDropdown }) => {
         TransitionComponent={Fade}
       >
         {data?.dropdown.map((item, idx) => (
-          <Link href={item.path}>
+          <Link href={item.path} key={idx}>
             <MenuItem onClick={handleClose}>{item.title}</MenuItem>
           </Link>
         ))}
