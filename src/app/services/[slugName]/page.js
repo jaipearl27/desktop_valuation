@@ -31,6 +31,33 @@ const metaTags = {
       },
     },
   },
+
+  "property-valuation-report-india": {
+    title: "Property Valuation Report India | Benefits & Process Explained",
+    description: "Need a property valuation report in India? Discover the process, benefits, and how desktop valuation delivers accurate and cost-effective results.",
+    canonical: "https://desktopvaluation.in/services/propertyvaluation-report-india",
+    author: "Desktop Valuation",
+    publisher: "Desktop Valuation",
+    robots: "index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1",
+    ldJson: {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      name: "Desktop Valuation",
+      alternateName: "Property Valuation Report India | Benefits & Process Explained",
+      description: "Need a property valuation report in India? Discover the process, benefits, and how desktop valuation delivers accurate and cost-effective results.",
+      url: "https://desktopvaluation.in/services/property-valuation-report-india",
+      logo: "https://desktopvaluation.in/images/logo/desktopValuation.svg",
+      contactPoint: {
+        "@type": "ContactPoint",
+        telephone: "+91-9687557070",
+        email: "contactus@desktopvaluation.in",
+        contactType: "customer service",
+        areaServed: "IN",
+        availableLanguage: ["en", "Hindi"]
+      }
+    }
+  }
+
 };
 const serviceData = [
   {

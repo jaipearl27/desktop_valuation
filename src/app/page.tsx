@@ -10,6 +10,7 @@ import Pricing from "@/components/Pricing";
 // import Testimonials from "@/components/Testimonials";
 // import Video from "@/components/Video";
 import { Metadata } from "next";
+import Script from "next/script";
 
 export const metadata: Metadata = {
   title: "Desktop Valuation Services | Instant Online Property Valuation",
@@ -81,6 +82,18 @@ export default function Home() {
             }),
           }}
         ></script>
+
+        <Script
+          id="clarity-script"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `(function(c,l,a,r,i,t,y){
+              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+          })(window, document, "clarity", "script", "pu59tx7dp7");`,
+          }}
+        />
       </main>
       <ScrollUp />
       <Hero />
