@@ -39,6 +39,18 @@ const menuData: Menu[] = [
         title: "Real estate valuation calculator",
         path: "/blog/real-estate-valuation-calculator",
       },
+      {
+        title: "Real Estate Market Value",
+        path: "/blog/real-estate-market-value",
+      },
+      {
+        title: "Commercial Real Estate Valuation Calculator",
+        path: "/blog/commercial-real-estate-valuation-calculator",
+      },
+      {
+        title: "Real Estate Valuation Tools",
+        path: "/blog/real-estate-valuation-tools",
+      },
     ],
     newTab: false,
   },
@@ -55,6 +67,10 @@ const menuData: Menu[] = [
         title: "Property valuation report india",
         path: "/services/property-valuation-report-india",
       },
+      {
+        title: "Property Appraisal Services",
+        path: "/services/property-appraisal-services"
+      }
     ],
     newTab: false,
   },
