@@ -86,12 +86,12 @@ const menuData: Menu[] = [
 
       {
         title: "The Role of Desktop Valuation in Real Estate Investment",
-        path: "/blog/the-role-of-desktop-valuation-in-real-estate-investment-1"
+        path: "/blog/the-role-of-desktop-valuation-in-real-estate-investment"
       },
 
       {
         title: "What Information is Used in a Desktop Valuation?",
-        path: "/blog/what-information-is-used-in-a-desktop-valuation-1"
+        path: "/blog/what-information-is-used-in-a-desktop-valuation"
       },
 
 

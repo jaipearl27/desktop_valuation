@@ -1035,7 +1035,7 @@ const blogData = [
 			</p>`
 	},
 	{
-		slugname: "5-Mistakes-to-Avoid-When-Relying-on-Desktop-Valuations",
+		slugname: "5-mistakes-to-avoid-when-relying-on-desktop-valuations",
 		content: `
 					<p style="margin-top:12pt; margin-bottom:12pt; page-break-inside:avoid; page-break-after:avoid; line-height:115%; font-size:26pt">
 				<a name="_nhe365q78v36"></a>5 Mistakes to Avoid When Relying on Desktop Valuations
@@ -1809,7 +1809,7 @@ const blogData = [
 	},
 
 	{
-		slugname: "the-role-of-desktop-valuation-in-real-estate-investment-1",
+		slugname: "the-role-of-desktop-valuation-in-real-estate-investment",
 		content: `
 					<div>
 			<div style="clear:both">
@@ -1909,7 +1909,7 @@ const blogData = [
 	},
 
 	{
-		slugname: "what-information-is-used-in-a-desktop-valuation-1",
+		slugname: "what-information-is-used-in-a-desktop-valuation",
 		content: `
 						<h1 style="margin-top:20pt; margin-bottom:6pt; page-break-inside:avoid; page-break-after:avoid; line-height:115%; font-size:20pt">
 				<a name="_fsw5jxme2nui"></a><span style="font-weight:normal">What Information is Used in a Desktop Valuation?</span>
