@@ -54,7 +54,7 @@ const menuData: Menu[] = [
 
       {
         title: "5 Mistakes to Avoid When Relying on Desktop Valuations",
-        path: "/blog/5-Mistakes-to-Avoid-When-Relying-on-Desktop-Valuations"
+        path: "/blog/5-mistakes-to-avoid-when-relying-on-desktop-valuations"
       },
       {
         title: "Desktop Valuation of Commercial Properties: Is It Accurate?",
