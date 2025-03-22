@@ -69,7 +69,7 @@ const menuData: Menu[] = [
         path: "/blog/how-ai-and-big-data-are-revolutionizing-desktop-valuations"
       },
       {
-        title: "How Banks and Lenders Utilize Desktop Valuations for Mortgage Approvals?</",
+        title: "How Banks and Lenders Utilize Desktop Valuations for Mortgage Approvals?",
         path: "/blog/how-banks-and-lenders-utilize-desktop-valuations-for-mortgage-app"
       },
 
